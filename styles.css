@@ -64,6 +64,20 @@ section a {
   transform: scale(1.05, 1);
 }
 
+.sign-up-link{
+  text-align: center;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.sign-up-link a{
+  color:var(--text-dark);
+  font-weight: 600;
+
+}
+
+
+
 img {
   width: 100%;
 }
@@ -170,6 +184,10 @@ nav {
 
 .link.logo {
   font-weight: 600;
+}
+
+.logo-img {
+  max-width: 120px;
 }
 
 .social__icons {
